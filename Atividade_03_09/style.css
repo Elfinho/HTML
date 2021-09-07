@@ -1,3 +1,4 @@
+* { margin: 0; padding: 0; }
 body {
   background-color: rgba(48, 46, 46, 0.74);
   text-align: justify;
@@ -132,4 +133,3 @@ body {
               overflow: auto;
               text-align: center;
             }
-                        
