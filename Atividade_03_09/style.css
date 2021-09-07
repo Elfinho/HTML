@@ -133,3 +133,23 @@ body {
               overflow: auto;
               text-align: center;
             }
+            .section2 {
+              float: left;
+              width: 38%;
+              height: 100%;
+              overflow: auto;
+              padding: 10px;
+              border: rgba(48, 46, 46, 0.74) solid;
+              background-color:rgba(48, 46, 46, 0.74);
+              text-align: center;
+            }
+            .article2 {
+              float: right;
+              width: 62%;
+              height: 100%;
+              text-align: center;
+              border: rgba(48, 46, 46, 0.74) solid;
+              background-color:rgba(48, 46, 46, 0.74);
+              padding: 10px;
+              overflow: auto;
+            }

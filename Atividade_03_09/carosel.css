@@ -44,7 +44,7 @@
   }
   
   body {
-    max-width: 37.5rem;
+    max-width: 900px;
     margin: 0 auto;
     padding: 0 1.25rem;
     font-family: 'Lato', sans-serif;
@@ -83,7 +83,7 @@
     position: relative;
     padding-top: 75%;
     filter: drop-shadow(0 0 10px #0003);
-    perspective: 100px;
+    perspective: 0px;
   }
   
   .carousel__viewport {
